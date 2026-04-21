@@ -1,0 +1,14 @@
+{
+  "name": "flight-price-backend",
+  "version": "1.0.0",
+  "description": "Backend server for comparing flight prices using TinyFish API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
